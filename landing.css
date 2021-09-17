@@ -60,7 +60,6 @@ body .wrapper .logo {
   transition: all 1s;
 }
 body .wrapper .logo:hover {
-  text-shadow: 0px 0px 64px #adcaee;
   transform: rotate3d(0, 1, 0, 180deg);
 }
 body .wrapper .tagline {
